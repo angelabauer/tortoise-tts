@@ -28,7 +28,7 @@ setuptools.setup(
         'scipy',
         'librosa',
         'transformers==4.31.0',
-        'tokenizers==0.14.0',
+        'tokenizers==0.11.1',
         'scipy==1.13.1'
         # 'deepspeed==0.8.3',
     ],
